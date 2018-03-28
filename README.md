@@ -1,4 +1,14 @@
-# Useful-Graphics-Resources
+# Useful Graphics Resources
+
+##OpenGL
+* [Learn OpenGL](http://learnopengl.com/)
+* [OpenGL tutorial](http://open.gl/)
+* [OGLdev - Modern OpenGL Tutorials](http://ogldev.atspace.co.uk/)
+* [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+
+##DirectX
+* [Tutorials for DX11](http://rastertek.com/tutdx11.html)
+* [D3dCorder](http://www.d3dcoder.net/d3d11.htm)
 
 # Game Programming
 ## General
