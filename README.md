@@ -23,5 +23,5 @@
 * [GLSL HLSL Vertex Shader](http://www.geeks3d.com/20111026/how-to-compute-position-and-normal-vertex-shader-opengl-glsl-direct3d-hlsl-matrix/)
 
 ## Shader
-*[GLSL BLEND](https://github.com/jamieowen/glsl-blend)
+* [GLSL BLEND](https://github.com/jamieowen/glsl-blend)
 
