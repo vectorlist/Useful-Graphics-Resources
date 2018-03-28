@@ -5,7 +5,7 @@
 * [OpenGL tutorial](http://open.gl/)
 * [OGLdev](http://ogldev.atspace.co.uk/)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
-* [3Dcpp Tutorila](http://www.3dcpptutorials.sk/index.php?id=14)
+* [3Dcpp Tutorial](http://www.3dcpptutorials.sk/index.php?id=14)
 
 ## DirectX
 * [Tutorials for DX11](http://rastertek.com/tutdx11.html)
