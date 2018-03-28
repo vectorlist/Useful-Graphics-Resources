@@ -16,3 +16,7 @@
 * [Vulkan Tutorial](https://vulkan-tutorial.com)
 * [SaschaWillemes](https://github.com/SaschaWillems/Vulkan)
 
+## ETC
+* [Normal Map Generator](http://cpetry.github.io/NormalMap-Online/)
+
+
